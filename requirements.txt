@@ -1,0 +1,7 @@
+Flask
+imutils
+open-cv-python.headless == 4.2.0.32
+pillow
+scikit-image
+gunicorn
+-e .
